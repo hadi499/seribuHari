@@ -2,9 +2,6 @@ body {
   font-family: "Roboto Condensed", sans-serif;
   background-color: rgb(210, 228, 245);
 }
-.card-title a:hover {
-  background-color: rgb(154, 241, 241);
-}
 
 .display {
   height: 50px;
@@ -16,12 +13,8 @@ body {
   font-size: 22px;
 }
 
-#masehi {
-  color: rgb(93, 17, 192);
-}
-
 footer {
-  color: rgb(6, 5, 104);
+  margin-top: 50px;
 }
 .satu {
   margin-top: 40px;
