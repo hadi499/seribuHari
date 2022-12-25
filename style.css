@@ -1,0 +1,31 @@
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  background-color: rgb(210, 228, 245);
+}
+.card-title a:hover {
+  background-color: rgb(154, 241, 241);
+}
+
+.display {
+  height: 50px;
+}
+
+#next-date {
+  color: rgb(39, 19, 155);
+  font-weight: 800;
+  font-size: 22px;
+}
+
+#masehi {
+  color: rgb(93, 17, 192);
+}
+
+footer {
+  color: rgb(6, 5, 104);
+}
+.satu {
+  margin-top: 40px;
+}
+.label {
+  font-size: 20px;
+}
